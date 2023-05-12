@@ -2,8 +2,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: v1beta3-demo
-  title: Test Action template
+  name: k8s-nodejs-api
+  title: K8s NodeJS api
   description: scaffolder v1beta3 template demo
 spec:
   owner: backstage/techdocs-core
