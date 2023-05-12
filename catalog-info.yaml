@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: app-pattern-k8s-nodejs
+  annotations:
+    github.com/project-slug: LemesVinicius/app-pattern-k8s-nodejs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
